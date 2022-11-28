@@ -9,3 +9,5 @@ To check if the functions work correctly you need:
 Train the model and get weights after training.
 4. Run dataset through the trained model and implemented 2 functions. Compare the results
 Note: Since the set of all observations is limited, training can be performed on the whole dataset without control.
+
+Description document you will find there https://disk.yandex.ru/d/ebaIcYalTxSbVQ
